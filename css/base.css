@@ -49,7 +49,7 @@ body {
     transition: 0.3s;
 }
 
-.brn:hover {
+.btn:hover {
     background: var(--bg);
     color: var(--white);
 }
